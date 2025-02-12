@@ -8,7 +8,8 @@
         "manifest": "https://github.com/MaterialFoundry/MaterialDeck_DnD5e/releases/download/v1.0.2/module.json",
         "compatibility": {
             "minimum": "2.0.0"
-        }
+        },
+        "version": "v1.0.2"
     },{
         "title": "Pathfinder 2e",
         "id": "materialdeck-pf2e",
@@ -18,6 +19,7 @@
         "manifest": "https://github.com/MaterialFoundry/MaterialDeck_PF2e/releases/download/v1.0.2/module.json",
         "compatibility": {
             "minimum": "2.0.0"
-        }
+        },
+        "version": "v1.0.2"
     }
 ]
